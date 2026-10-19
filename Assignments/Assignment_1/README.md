@@ -1,4 +1,4 @@
-C Programming Assignment
+C Programming Assignment No 1
 
 Description :-
 This repository contains basic C programming assignments completed to improve programming fundamentals and logic-building skills.
